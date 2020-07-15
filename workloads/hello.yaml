@@ -22,7 +22,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: hello
-  namespace: -prd-lasample
+  namespace: prod-lasample
   labels:
     app: hello
 spec:
