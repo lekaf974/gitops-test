@@ -13,3 +13,10 @@ metadata:
     name: lasample
     env: prod
   name: prod-lasample
+--- 
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: lasample
+  name: lasample
