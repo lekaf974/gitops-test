@@ -5,7 +5,7 @@ metadata:
     name: lasample
     env: qa
   name: qa-lasample
--- 
+--- 
 apiVersion: v1
 kind: Namespace
 metadata:
