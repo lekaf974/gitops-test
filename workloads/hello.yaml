@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: hello
-        image: linuxacademycontent/gitops:hellov1.2.1
+        image: linuxacademycontent/gitops:hellov1.2.2
 ---
 apiVersion: apps/v1
 kind: Deployment
