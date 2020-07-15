@@ -1,0 +1,1 @@
+{"jobID":"db8ac7ed-d218-2151-c6b3-ed22e5364bc7","spec":{"type":"policy","cause":{"Message":"","User":"Matthieu EVRIN \u003cmatthieu.evrin@gmail.com\u003e"},"spec":{"qa-lasample:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
